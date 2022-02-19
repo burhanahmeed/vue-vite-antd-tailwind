@@ -3,6 +3,6 @@ import Antdv from 'ant-design-vue';
 
 export default {
   install: (app: App) => {
-    app.use(Antdv as any)
-  }
-}
+    app.use(Antdv as any);
+  },
+};
