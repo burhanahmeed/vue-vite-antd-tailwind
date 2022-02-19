@@ -10,6 +10,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <a-button type="primary">
     OK
   </a-button>
+  <p class="text-3xl text-green-500 font-bold">Hello world</p>
 </template>
 
 <style>
