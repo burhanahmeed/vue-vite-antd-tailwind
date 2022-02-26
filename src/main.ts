@@ -1,7 +1,7 @@
 import { createApp } from 'vue';
 import { createPinia } from 'pinia';
 import Bootstrap from '@/src/bootstrap';
-import Router from '@/src/routers'
+import Router from '@/src/routers';
 import App from './App.vue';
 
 import '@/src/assets/styles/tailwind.css';
