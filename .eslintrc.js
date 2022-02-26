@@ -23,6 +23,19 @@ module.exports = {
   env: {
     node: true,
   },
+  overrides: [
+    {
+      files: [
+        '**/*.spec.js',
+        '**/*.spec.jsx',
+        '**/*.spec.ts',
+        '**/*.spec.tsx',
+      ],
+      env: {
+        jest: true,
+      },
+    },
+  ],
   settings: {
     'import/resolver': {
       typescript: {},
