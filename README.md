@@ -15,4 +15,4 @@ Opiniated Vue Boilerplate.
 - Tailwindcss
 
 ## License
-MIT
+[MIT](/LICENSE)
