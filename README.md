@@ -1,6 +1,6 @@
 # Vue Vite Pinia Boilerplate
 
-Opiniated Vue Boilerplate.
+Opinionated Vue Boilerplate.
 
 ### Stacks
 - Vue 3
@@ -9,6 +9,7 @@ Opiniated Vue Boilerplate.
 - Pinia
 - Jest
 - Vue-test-utils
+- Typescript
 
 ### UI
 - Ant-design-vue
@@ -18,5 +19,15 @@ Opiniated Vue Boilerplate.
 - EsLint AirBnb
 - Husky
 
+### Installing
+Use this template
+
+Run `npm install`
+
+Run `npm run dev`
+
+### Customizing Ant design style
+Use `/src/assets/styles/variable.less` to customize Ant design theme.
+
 ## License
-[MIT](/LICENSE)
+This project is licensed under the MIT license, Copyright (c) 2022 Burhanuddin Ahmad. For more information see [MIT](/LICENSE).
