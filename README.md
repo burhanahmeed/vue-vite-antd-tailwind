@@ -14,5 +14,9 @@ Opiniated Vue Boilerplate.
 - Ant-design-vue
 - Tailwindcss
 
+### Tools
+- EsLint AirBnb
+- Husky
+
 ## License
 [MIT](/LICENSE)
